@@ -1,0 +1,10 @@
+2024-08-20 23:49:03.214657 - Processing service: test_service
+2024-08-20 23:49:03.214792 - Scheduled job: * * * * * python service.py
+2024-08-20 23:51:18.809230 - Processing service: test_service
+2024-08-20 23:51:18.809330 - Scheduled job: * * * * * python service.py
+2024-08-20 23:52:16.127906 - Processing service: test_service
+2024-08-20 23:52:16.127991 - Scheduled job: * * * * * python service.py
+2024-08-20 23:52:38.031051 - Processing service: test_service
+2024-08-20 23:52:38.031132 - Scheduled job: * * * * * python service.py
+2024-08-20 23:52:43.753247 - Processing service: test_service
+2024-08-20 23:52:43.753379 - Scheduled job: * * * * * python service.py

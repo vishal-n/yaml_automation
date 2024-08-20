@@ -1,0 +1,5 @@
+services:
+  - name: test_service
+    type: cron
+    schedule: "* * * * *"
+    command: "python service.py"
